@@ -14,9 +14,12 @@ Punishment based on social voluntary cooperation has been evolving for a long ti
 ### Results
 
 Here are videos of games played in our python model:
-  - [Basic game] (http://sendvid.com/4bc70dyd) 
-  - Drag and drop files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - [Basic game 1] (http://sendvid.com/4bc70dyd) 
+  - [Basic game 2] (http://sendvid.com/d7fqgfoy)
+  - [Tax (insurance) game 1] (http://sendvid.com/9tbynsn3)
+  - [Tax game 2] (http://sendvid.com/g3qmtcja)
+  - [Tax game 3] (http://sendvid.com/nkrsq39p)
+  - [Tax game 4] (http://sendvid.com/xpti9jlz)
 
 
 
